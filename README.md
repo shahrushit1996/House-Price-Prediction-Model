@@ -55,3 +55,4 @@ and bathrooms but with larger space as compared to cluster 1.
 Cluster 3 (Luxury Houses) groups luxurious houses with the largest area along with the possibility
 of having a waterfront which ultimately results in a good view.
 
+A details analysis can be found in the Project Summary Report along with the Final Code.
