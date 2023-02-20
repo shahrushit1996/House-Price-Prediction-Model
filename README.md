@@ -9,17 +9,10 @@ The dataset that we used is taken from Kaggle - https://www.kaggle.com/datasets/
 
 THE WHY
 
-The purpose of this project was to put to test the learnings and skills related to R specifically exploring the following topics using R
+The purpose of this project was to put to test the learnings and skills related to R specifically exploring the following topics using R:
 
-Statistics
+Statistics, Regression, Supervised Clustering, Unsupervised Clustering, Forecasting
 
-Regression
-
-Supervised Clustering
-
-Unsupervised Clustering
-
-Forecasting
 
 Some sample question examples which aligned with the aforementioned topics that we tried to answer were:
 
