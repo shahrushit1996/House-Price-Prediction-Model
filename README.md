@@ -25,6 +25,7 @@ Cluster the data using your choice of columns and number of bedrooms as the depe
 Cluster the data using these columns: bedrooms, bathrooms, sqft_living, floors, waterfront, price. Name the clusters.
 Does the model improve if instead of a linear model we use a neural network?
 What is the expected average home price for January 2016 based on the average home prices from previous months?
+
 CREDITS
 
 The project was in collaboration with Manthan Mehta & Harshi Thaker
