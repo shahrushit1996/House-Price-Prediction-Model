@@ -1,6 +1,6 @@
 THE WHAT
 
-The repository includes a data analysis project as part of the course "Introduction to R"
+The repository includes a data science project as part of the course "Introduction to R"
 
 The project is developed using R as the programming language. Tableau is used for data visualization.
 
