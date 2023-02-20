@@ -1,8 +1,8 @@
 THE WHAT
 
-This repository includes a data analysis project as part of the course "Introductin to R"
+The repository includes a data analysis project as part of the course "Introduction to R"
 
-This project is developed using R as the core programming language and Tableau for data visualization with R Studio as the platform for writing the code.
+The project is developed using R as the programming language. Tableau is used for data visualization.
 
 The dataset that we used is taken from Kaggle - https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 
@@ -16,6 +16,7 @@ Supervised Clustering
 Unsupervised Clustering
 Neural Network
 Forecasting
+
 Some sample question examples which aligned with the aforementioned topics that we tried to answer were:
 
 What is the average home price in the zip code 98034 and what is the standard deviation.
