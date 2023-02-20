@@ -1,6 +1,3 @@
-#King County House Price Prediction
-
-THE WHAT
 
 The repository includes a data science project as part of the course "Introduction to R"
 
